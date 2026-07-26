@@ -206,9 +206,7 @@ Every contribution helps improve the project and makes spiritual guidance more a
 
 Special thanks to:
 
-📖 **Swami Sivananda** for the public-domain English translation of the Bhagavad Gita.
-
-🌸 Contributors of traditional Telugu translations.
+📖 **Swami Sivananda** for the public-domain English translation of the Bhagavad Gita. Contributors of traditional Telugu translations.
 
 💙 **Streamlit**
 
@@ -222,4 +220,3 @@ Special thanks to:
 
 ---
 
-# ⭐ If you like this project, don't forget to give it a Star!
